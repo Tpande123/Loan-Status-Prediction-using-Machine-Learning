@@ -33,4 +33,4 @@ The different steps involved are  ->
 
 ## Link to the datasets used: -
 
-The dataset train_u6lujuX_CVtuZ9i.csv used here can be accessed via the link -> https://www.kaggle.com/c/fake-news/data?select=train.csv
+The dataset train_u6lujuX_CVtuZ9i.csv used here can be accessed via the link -> https://www.kaggle.com/ninzaami/loan-predication
